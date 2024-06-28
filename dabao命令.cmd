@@ -1,0 +1,1 @@
+pyinstaller --onefile --noconsole --icon C:\Users\sesa755454\Documents\GitHub\hostUtil\hosts.ico -n movehosts      C:\Users\sesa755454\Documents\GitHub\hostUtil\gui_index.py
